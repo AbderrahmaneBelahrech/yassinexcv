@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 -->
   ![full-stack-development](https://user-images.githubusercontent.com/77829205/124051039-9ab94900-da13-11eb-9654-1d79bf3cfe37.gif)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yassine</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Morocco.</h3>
+<h1 align="center">Hi 👋, I'm Abderrahmane Belahrech</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from Morocco</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abderrahmanebelahrech&label=Profile%20views&color=0e75b6&style=flat" alt="abderrahmanebelahrech" /> </p>
 
-## 🙋‍♂️ About Me ù
+<p align="left"> <a href="https://twitter.com/abderrahmanebelahrech" target="blank"><img src="https://img.shields.io/twitter/follow/abderrahmanebelahrech?logo=twitter&style=for-the-badge" alt="abderrahmanebelahrech" /></a> </p>
+
 
 - 💻 I’m a **Software Engineer**
 - 🌱 I’m currently learning **Data Science .**
