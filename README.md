@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abderrahmanebelahrech&label=Profile%20views&color=0e75b6&style=flat" alt="abderrahmanebelahrech" /> </p>
 
-<p align="left"> <a href="https://www.instagram.com/abdo_belahrech/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="abderrahmanebelahrech" /></a> </p>
 <p align="left"> <a href="https://twitter.com/abderrahmanebelahrech" target="blank"><img src="https://img.shields.io/twitter/follow/abderrahmanebelahrech?logo=twitter&style=for-the-badge" alt="abderrahmanebelahrech" /></a> </p>
 
 - 💻 I’m a **Software Engineer**
